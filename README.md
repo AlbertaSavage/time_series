@@ -1,1 +1,2 @@
-# time_series
+##### Time series analysis is basically a statistical technique that deals with time series data. It involves studying models that incorporate dependence and this is somewhat a unique feature of time series modeling. The basic objective of time series analysis is to often determine a model that best describes the pattern of a time series. 
+##### Analysis is done on the monthly frequency and severity of cybersecurity breaches from January 2005 to April 2018 and an appropriate time series model is selected.
